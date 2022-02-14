@@ -4,7 +4,12 @@ description: Lecture notes on basic statistics, the lexicon and context in speec
   perception, and phonology in speech perception.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/1896231e5fcf0e8f04c534e7805347f0_lec9_1_stats.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Basic Statistics
+type: OCWFile
 uid: 1896231e-5fcf-0e8f-04c5-34e7805347f0
 ---

@@ -4,7 +4,12 @@ description: Lecture notes on spectral analysis techniques, Fourier analysis, an
   linear predictive coding (LPC).
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/175a61591cf2a5a8f0d502887ad61724_lec5_spectral.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Spectral Analysis
+type: OCWFile
 uid: 175a6159-1cf2-a5a8-f0d5-02887ad61724
 ---

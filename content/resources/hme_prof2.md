@@ -7,7 +7,9 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
 resourcetype: Image
 title: OCW Home
+type: OCWImage
 uid: 4ea7c561-847a-6857-8348-aa38fa4eda96
 ---

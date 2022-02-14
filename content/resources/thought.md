@@ -3,7 +3,12 @@ content_type: resource
 description: Supplemental audio file for an assignment on laboratory phonology.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/4fcf4d9b82a3d67b68c61dfbf367a881_thought.wav
 file_type: audio/x-wav
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Other
 title: thought
+type: OCWFile
 uid: 4fcf4d9b-82a3-d67b-68c6-1dfbf367a881
 ---

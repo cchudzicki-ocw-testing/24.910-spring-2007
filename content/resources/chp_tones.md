@@ -7,7 +7,9 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
 resourcetype: Image
 title: Waveform and analysis of four Chinese words
+type: OCWImage
 uid: 35775e38-e06d-474c-da06-12bfa4e871e0
 ---
