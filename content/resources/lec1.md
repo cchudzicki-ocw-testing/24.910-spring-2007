@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Laboratory Phonology
-type: OCWFile
 uid: 62507638-5dca-5c49-6d7b-98d85e449814
 ---

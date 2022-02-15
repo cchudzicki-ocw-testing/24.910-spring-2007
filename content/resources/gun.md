@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: gun
-type: OCWFile
 uid: 70c9ea01-d2fb-3ff7-9190-6cf03e397d9a
 ---

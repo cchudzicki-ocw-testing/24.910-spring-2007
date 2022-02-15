@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Basic Statistics
-type: OCWFile
 uid: 1896231e-5fcf-0e8f-04c5-34e7805347f0
 ---

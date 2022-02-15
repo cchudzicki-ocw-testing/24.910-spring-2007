@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Phonetics and Phonology of accent Variation
-type: OCWFile
 uid: 0070571e-3f90-150f-0605-178247b62ed2
 ---

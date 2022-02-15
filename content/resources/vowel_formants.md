@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Measuring Vowel Formants
-type: OCWFile
 uid: 633afa3e-5a85-2623-0196-f596dc8896f0
 ---

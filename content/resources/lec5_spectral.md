@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Spectral Analysis
-type: OCWFile
 uid: 175a6159-1cf2-a5a8-f0d5-02887ad61724
 ---

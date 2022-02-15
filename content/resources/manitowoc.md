@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: manitowoc
-type: OCWFile
 uid: 7a686034-852c-ed4c-cf19-038f6f100e9e
 ---

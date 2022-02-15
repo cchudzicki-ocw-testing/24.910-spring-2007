@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: mole1
-type: OCWFile
 uid: 258e67e7-a6b7-52a1-a9c5-42d7e6962785
 ---

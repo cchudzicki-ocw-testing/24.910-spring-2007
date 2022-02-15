@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Response sheet
-type: OCWFile
 uid: f3e158e3-a91d-1644-a9f9-98d17600f856
 ---

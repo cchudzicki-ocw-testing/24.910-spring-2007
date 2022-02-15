@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: The Source-Filter Model of Speech Production
-type: OCWFile
 uid: be0a33b0-d6f0-2be1-96cb-f2c5d8cbd274
 ---

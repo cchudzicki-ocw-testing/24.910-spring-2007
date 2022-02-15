@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: lose
-type: OCWFile
 uid: b0b4b3d9-f1f3-a68f-378d-7dd09dc80c45
 ---

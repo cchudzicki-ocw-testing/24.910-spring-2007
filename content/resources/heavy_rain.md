@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: heavy_rain
-type: OCWFile
 uid: 78ec0a5e-1858-efc6-2423-45d28b31cb49
 ---

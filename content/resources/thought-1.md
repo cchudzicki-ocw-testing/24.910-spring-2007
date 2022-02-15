@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: thought
-type: OCWFile
 uid: 625a2909-23cc-8153-b5cc-ddfc85d94677
 ---

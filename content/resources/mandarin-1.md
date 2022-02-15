@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Aspiration contrasts in Mandarin Chinese
-type: OCWFile
 uid: 9ab8411e-b08a-b8e3-1653-de2ab21e5caa
 ---

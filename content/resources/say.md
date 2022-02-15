@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: say
-type: OCWFile
 uid: b72585f3-0e9d-ac8d-b2dd-747b6ac3079f
 ---

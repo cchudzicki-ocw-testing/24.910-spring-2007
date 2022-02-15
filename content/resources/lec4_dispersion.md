@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: The Theory of Adaptive Dispersion
-type: OCWFile
 uid: 76ecc75b-b245-82c3-1211-3d2a17460a57
 ---

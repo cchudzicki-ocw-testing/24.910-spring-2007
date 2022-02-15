@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Other
 title: American Vowels
-type: OCWFile
 uid: e3c6c24f-0f01-8593-c468-67e9e6120015
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Licensing by Cue
-type: OCWFile
 uid: e0847d3c-8acc-d855-a03a-b148f93256d4
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Intonation
-type: OCWFile
 uid: 5dc30230-f95b-6232-ec4e-2e2a1527ce7b
 ---

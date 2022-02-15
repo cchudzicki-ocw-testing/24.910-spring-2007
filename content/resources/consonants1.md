@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Other
 title: Consonants
-type: OCWFile
 uid: 8ea0693f-2388-3cd3-6014-ed8f3ccbcb64
 ---

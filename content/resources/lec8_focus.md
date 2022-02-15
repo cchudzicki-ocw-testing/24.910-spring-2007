@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: The Meaning of Intonation
-type: OCWFile
 uid: 72cd53b3-9c3f-e350-b962-fe3d098ef930
 ---

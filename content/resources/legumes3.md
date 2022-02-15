@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: legumes3
-type: OCWFile
 uid: 7e6285d9-d7c7-f01b-b7c5-a2ac1cfcb043
 ---

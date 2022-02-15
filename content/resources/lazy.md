@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: lazy
-type: OCWFile
 uid: 55c30728-13fb-9f1e-bde9-5a6351c49961
 ---

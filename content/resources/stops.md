@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: stops
-type: OCWFile
 uid: 24632974-6049-abd3-c93c-de0e2fba7d80
 ---

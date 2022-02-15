@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: jemimaobjfoc
-type: OCWFile
 uid: 2d767990-5329-70f6-6846-87bc7a583204
 ---

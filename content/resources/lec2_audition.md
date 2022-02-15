@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Basic Audition
-type: OCWFile
 uid: 9f543d96-e9e2-96ad-be2f-e56ded00836c
 ---

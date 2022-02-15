@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Results of the voicing perception experiment
-type: OCWFile
 uid: c5986715-a988-1845-540a-7b2e3cb27ded
 ---

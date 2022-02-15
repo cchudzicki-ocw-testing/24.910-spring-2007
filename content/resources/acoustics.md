@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Acoustics Assignment 2
-type: OCWFile
 uid: 396f4406-924f-8716-88aa-158d7d245696
 ---

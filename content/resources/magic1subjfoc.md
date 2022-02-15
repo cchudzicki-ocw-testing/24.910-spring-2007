@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: magic1subjfoc
-type: OCWFile
 uid: 2d918322-463d-c004-22e2-1a7b54c5f993
 ---

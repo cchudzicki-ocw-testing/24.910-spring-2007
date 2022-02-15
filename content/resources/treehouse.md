@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: treehouse
-type: OCWFile
 uid: e0df76e6-5a8c-3e90-1864-3370ec869d46
 ---

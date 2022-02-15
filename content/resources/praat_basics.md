@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: Praat Basics
-type: OCWFile
 uid: aeaafb71-848a-83c3-d0fe-a70b39f9e929
 ---

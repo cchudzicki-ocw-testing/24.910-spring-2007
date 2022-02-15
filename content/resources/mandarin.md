@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Other
 title: mandarin
-type: OCWFile
 uid: 25958242-b3cd-ce83-21bc-c21dcab138e2
 ---
