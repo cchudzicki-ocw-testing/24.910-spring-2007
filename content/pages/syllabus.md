@@ -151,7 +151,7 @@ Textbook
 
 Johnson, Keith. _Acoustic and Auditory Phonetics_. 2nd ed. Malden, MA: Blackwell, 2003. ISBN: 9781405101233.
 
-Please see {{< resource_link 0c60b88d-f17e-d6ba-04d3-4948e29bab1f "readings" >}} for additional texts.
+Please see {{% resource_link 0c60b88d-f17e-d6ba-04d3-4948e29bab1f "readings" %}} for additional texts.
 
 Calendar
 --------
