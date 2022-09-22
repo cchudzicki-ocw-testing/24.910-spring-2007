@@ -6,6 +6,7 @@ file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-20
 file_type: audio/x-aiff
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
